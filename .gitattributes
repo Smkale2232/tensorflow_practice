@@ -1,2 +1,2 @@
-datasets/flower_photos.tar.gz filter=lfs diff=lfs merge=lfs -text
 *.tar.gz filter=lfs diff=lfs merge=lfs -text
+datasets/flower_photos.tar.gz filter=lfs diff=lfs merge=lfs -text
